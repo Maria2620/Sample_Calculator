@@ -101,12 +101,12 @@ button:hover{
 
 @media(max-width:620px) {
     .calculator {
-        width: 60%;
+        width: 75%;
     }
 }
 
 @media(max-width:412px) {
     .claculator {
-        width: 75%;
+        width: 70%;
     }
 }
